@@ -10,6 +10,16 @@ This project analyzes data from the `mtcars` dataset to determine the impact of 
 
 The `mtcars` dataset provides various features of a collection of cars, such as MPG, transmission type, weight, horsepower, and more. This analysis uses regression modeling and exploratory data visualization to evaluate how these factors relate to MPG and to quantify the effect of transmission type on fuel efficiency.
 
+## Contents
+
+- Motor Trend Analysis.Rmd: An RMD file consisting of the reproducible code with the process explainations
+- Motor Trend Analysis.pdf: A PDF file of the complete analysis as per requirment of the coure project
+- Motor Trend Analysis.html: A HTML file for browzer interface for those interested 
+- README.md: An MD file for a brief overview of the project
+- Regression Models.Rproj File
+- gitignore File
+
+
 ## Prerequisites
 
 To successfully replicate this analysis, ensure you have:
